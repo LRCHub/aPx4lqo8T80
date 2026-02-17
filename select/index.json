@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Nowhere Kids",
+  "base_artist": "Smile Empty Soul",
+  "createdAt": "2026-02-17T10:06:38.332400Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nowhere Kids",
+      "artist": "Shinedown",
+      "has_synced": true,
+      "path": "select/01_Nowhere_Kids_Shinedown.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nowhere Kids",
+      "artist": "Smile Empty Soul",
+      "has_synced": false,
+      "path": "select/02_Nowhere_Kids_Smile_Empty_Soul.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nowhere Kids",
+      "artist": "Smile Empty Soul",
+      "has_synced": true,
+      "path": "select/03_Nowhere_Kids_Smile_Empty_Soul.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nowhere Kids",
+      "artist": "Shinedown",
+      "has_synced": true,
+      "path": "select/04_Nowhere_Kids_Shinedown.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nowhere Kids",
+      "artist": "Shinedown",
+      "has_synced": true,
+      "path": "select/05_Nowhere_Kids_Shinedown.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nowhere Kids",
+      "artist": "Smile Empty Soul",
+      "has_synced": false,
+      "path": "select/06_Nowhere_Kids_Smile_Empty_Soul.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "nowhere kids [explicit]",
+      "artist": "shinedown",
+      "has_synced": true,
+      "path": "select/07_nowhere_kids_[explicit]_shinedown.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Middle of Nowhere Kids",
+      "artist": "Drew Baldridge",
+      "has_synced": true,
+      "path": "select/08_Middle_of_Nowhere_Kids_Drew_Baldridge.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "07-shinedown-nowhere_kids",
+      "artist": "Shinedown",
+      "has_synced": true,
+      "path": "select/09_07-shinedown-nowhere_kids_Shinedown.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nowhere Kids",
+      "artist": "Shinedown",
+      "has_synced": true,
+      "path": "select/10_Nowhere_Kids_Shinedown.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "- Nowhere Kids",
+      "artist": "Shinedown",
+      "has_synced": true,
+      "path": "select/11_-_Nowhere_Kids_Shinedown.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nowhere Kids",
+      "artist": "Success",
+      "has_synced": false,
+      "path": "select/12_Nowhere_Kids_Success.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "07 Nowhere Kids",
+      "artist": "Shinedown",
+      "has_synced": true,
+      "path": "select/13_07_Nowhere_Kids_Shinedown.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nowhere Kids",
+      "artist": "Smile Empty Soul",
+      "has_synced": false,
+      "path": "select/pl_01_Nowhere_Kids_Smile_Empty_Soul.txt"
+    }
+  ]
+}
