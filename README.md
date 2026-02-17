@@ -1,0 +1,49 @@
+# Smile Empty Soul – Nowhere Kids
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+In the land of dirt and plaster
+Lies an army of a thousand nowhere kids
+Losing ground and falling faster
+Into a life that no one should have to live
+
+We are the people that you hate
+We are the bastards that you created
+A generation with no place
+A generation of all your sons and daughters
+
+Behind the fake family image
+Behind the smile of a thousand moms and dads
+Inside the cage that we've been given
+I see an image of the future that we don't have
+
+We are the people that you hate
+We are the bastards that you created
+A generation with no place
+A generation of all your sons and...
+We are the people that you hate
+The fucking bastards that you created
+A generation with no place
+A generation of all your sons and daughters
+
+And what did you expect?
+A perfect child?
+Raised by TV sets
+Abandoned every mile
+We never get respect
+Never a fair trial
+No one gives a shit
+As long as we smile
+Smile
+Smile
+
+We are the people that you hate
+We are the bastards that you created
+A generation with no place
+A generation of all your sons and...
+We are the people that you hate
+The fucking bastards that you created
+A generation with no place
+A generation of all your sons and daughters
+```
